@@ -1,0 +1,15 @@
+Bienvenido a Digialmuerzos.
+
+Antes de comenzar, el archivo "menu.xlsx" debe contener las fechas del almuerzo y el menú completo de esta manera:
+
+Fecha	Sopa (1)	Proteico (2)	Cereal (3)	Tubérculo (4)	Vegetariano (5)
+Sep-27 	sopa1	     prote1	        cere1	     tube1	          vege1
+Sep-28 	sopa2	     prote2	        cere2	     tube2	          vege2
+Sep-29  sopa3	     prote3	        cere3	     tube3	          vege3
+
+Este archivo debe ser modificado mes a mes, pues el programa lee el menú con respecto al día actual en el que se ejecute.
+
+Para usar el programa (Actualizado a Beta 3.2) Debe ejecutarse en cmd utilizando el compilador de python, este, después de depurar el código, mostrará la fecha actual, las opciones de menú y permitirá seleccionar los alimentos paa consumir.
+Si se quiere, por ejemplo, elegir un menú con sopa, proteico y tubérculo, cuando el programa pregunte por el alimento, debe escribir "1", luego le preguntará por al cantidad, donde usted selecconará la cantidad que desee expresada únicamente con números, paso seguido, deberá escribir "2" para elegir el protéico, y, de nuevo, elegir la cantidad que desea, posteriormente debe escribir "4" para seleccionar el tubérculo, por último, debe escribir "terminar", lo que hará que termine la ejecución del programa y creará el código QR que quedará guardado en la carpeta raíz desde donde se ejecute el programa.
+
+Para más información, puede escribir al +57 318 577 4860.
