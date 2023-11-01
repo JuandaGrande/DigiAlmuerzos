@@ -6,7 +6,7 @@ Para comenzar a utilizar DigiAlmuerzos, sigue estos pasos:
 
 Paso 1: Asegúrate de tener Python instalado en tu computadora. Si aún no lo tienes, puedes descargarlo desde el sitio web oficial de Python (https://www.python.org/).
 
-Paso 2: Descarga el archivo comprimido (zip) que contiene todos los archivos necesarios desde nuestro repositorio en GitHub (https://github.com/JuandaGrande/DigiAlmuerzos).
+Paso 2: Descarga el archivo comprimido (zip) que contiene todos los archivos necesarios desde nuestro repositorio más nuevo en GitHub (https://github.com/JuandaGrande/DigiAlmuerzos/tree/Beta-3.5).
 
 Paso 3: Extrae el contenido del archivo zip en la ubicación de tu elección en tu computadora.
 
