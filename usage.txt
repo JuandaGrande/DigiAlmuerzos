@@ -1,19 +1,41 @@
-Bienvenido a Digialmuerzos.
+¡Bienvenido a DigiAlmuerzos!
 
-Antes de comenzar, el archivo "menu.xlsx" debe contener las fechas del almuerzo y el menú completo de esta manera:
+Gracias por interesarte en nuestro proyecto, DigiAlmuerzos. Nuestra misión es abordar el problema del desperdicio de alimentos en el Colegio Cafam y mejorar la satisfacción de los estudiantes con la oferta alimentaria. A través de la personalización de los almuerzos, buscamos reducir el desperdicio de comida y asegurarnos de que cada estudiante reciba una comida que se adapte a sus necesidades y gustos.
 
-Fecha	Sopa (1)	Proteico (2)	Cereal (3)	Tubérculo (4)	Vegetariano (5)
-Sep-27 	sopa1	     prote1	        cere1	     tube1	          vege1
-Sep-28 	sopa2	     prote2	        cere2	     tube2	          vege2
-Sep-29  sopa3	     prote3	        cere3	     tube3	          vege3
+Para comenzar a utilizar DigiAlmuerzos, sigue estos pasos:
 
-***Octubre 20: Añadido menú como parte del repositorio.  ==> menu.xlsx
+Paso 1: Asegúrate de tener Python instalado en tu computadora. Si aún no lo tienes, puedes descargarlo desde el sitio web oficial de Python (https://www.python.org/).
 
-Este archivo debe ser modificado mes a mes, pues el programa lee el menú con respecto al día actual en el que se ejecute.
+Paso 2: Descarga el archivo comprimido (zip) que contiene todos los archivos necesarios desde nuestro repositorio en GitHub (https://github.com/JuandaGrande/DigiAlmuerzos).
 
-Para usar el programa (Actualizado a Beta 3.3) Debe ejecutarse en cmd utilizando el compilador de python, este, mostrará la fecha actual, las opciones de menú y permitirá seleccionar los alimentos paa consumir.
-Si se quiere, por ejemplo, elegir un menú con sopa, proteico y tubérculo, cuando el programa pregunte por el alimento, debe escribir "1", luego le preguntará por al cantidad, donde usted selecconará la cantidad que desee expresada únicamente con números, paso seguido, deberá escribir "2" para elegir el protéico, y, de nuevo, elegir la cantidad que desea, posteriormente debe escribir "4" para seleccionar el tubérculo, por último, debe escribir "terminar", lo que hará que termine la ejecución del programa y creará el código QR que quedará guardado en la carpeta raíz desde donde se ejecute el programa.
+Paso 3: Extrae el contenido del archivo zip en la ubicación de tu elección en tu computadora.
 
-En la Beta 3.3 se añade una confirmación para que desde el programa se muestren los alimentos seleccionados.
+Paso 4: Ejecuta el archivo "requisitos.bat" para instalar las dependencias necesarias. Este archivo se encargará de configurar el entorno de trabajo para DigiAlmuerzos.
 
-Para más información, puede escribir al +57 318 577 4860.
+Paso 5: Una vez completados los pasos anteriores, estás listo para usar DigiAlmuerzos. Simplemente ejecuta el archivo "autorun.bat" para iniciar el programa.
+
+**Nota Importante:** El archivo "menu.xlsx" debe ser actualizado manualmente para que el programa funcione correctamente, ya que utiliza la fecha actual para leer las opciones de almuerzo.
+
+¡Listo! Ahora puedes disfrutar de un servicio de alimentación personalizado y contribuir a la reducción del desperdicio de alimentos en el Colegio Cafam.
+
+Si encuentras algún problema o tienes alguna pregunta, no dudes en contactarnos:
+
+Juan David Garavito
+Correo Electrónico: juandagrande@gmail.com
+Teléfono: (+57) 318 577 4860
+
+Estamos aquí para ayudarte y mejorar constantemente DigiAlmuerzos. Gracias por ser parte de nuestro proyecto y por tu compromiso con la reducción del desperdicio de alimentos. ¡Disfruta de tus almuerzos personalizados!
+
+Copyright (c) 2023 DigiAlmuerzos
+
+Este proyecto está bajo la licencia MIT License. Puedes encontrar los detalles de la licencia en el archivo LICENSE incluido en nuestro repositorio de GitHub (https://github.com/JuandaGrande/DigiAlmuerzos).
+
+Creadores del Proyecto:
+
+Juan Garavito - 11A
+Sergio Pérez - 11A
+Patrick Domicó - 11A
+Andrés Ballesteros - 11B
+Yeider Jácome - 11B
+
+Este proyecto fue creado en el 2023, en la clase de Programación y Pensamiento Computacional del Colegio Cafam con la docente Claudia Rodríguez.
