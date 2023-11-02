@@ -1,0 +1,41 @@
+¡Bienvenido a DigiAlmuerzos!
+
+Gracias por interesarte en nuestro proyecto, DigiAlmuerzos. Nuestra misión es abordar el problema del desperdicio de alimentos en el Colegio Cafam y mejorar la satisfacción de los estudiantes con la oferta alimentaria. A través de la personalización de los almuerzos, buscamos reducir el desperdicio de comida y asegurarnos de que cada estudiante reciba una comida que se adapte a sus necesidades y gustos.
+
+Para comenzar a utilizar DigiAlmuerzos, sigue estos pasos:
+
+Paso 1: Asegúrate de tener Python instalado en tu computadora. Si aún no lo tienes, puedes descargarlo desde el sitio web oficial de Python (https://www.python.org/).
+
+Paso 2: Descarga el archivo comprimido (zip) que contiene todos los archivos necesarios desde nuestro repositorio en GitHub (https://github.com/JuandaGrande/DigiAlmuerzos).
+
+Paso 3: Extrae el contenido del archivo zip en la ubicación de tu elección en tu computadora.
+
+Paso 4: Ejecuta el archivo "requisitos.bat" para instalar las dependencias necesarias. Este archivo se encargará de configurar el entorno de trabajo para DigiAlmuerzos.
+
+Paso 5: Una vez completados los pasos anteriores, estás listo para usar DigiAlmuerzos. Simplemente ejecuta el archivo "autorun.bat" para iniciar el programa.
+
+**Nota Importante:** El archivo "menu.xlsx" debe ser actualizado manualmente para que el programa funcione correctamente, ya que utiliza la fecha actual para leer las opciones de almuerzo.
+
+¡Listo! Ahora puedes disfrutar de un servicio de alimentación personalizado y contribuir a la reducción del desperdicio de alimentos en el Colegio Cafam.
+
+Si encuentras algún problema o tienes alguna pregunta, no dudes en contactarnos:
+
+Juan David Garavito
+Correo Electrónico: juandagrande@gmail.com
+Teléfono: (+57) 318 577 4860
+
+Estamos aquí para ayudarte y mejorar constantemente DigiAlmuerzos. Gracias por ser parte de nuestro proyecto y por tu compromiso con la reducción del desperdicio de alimentos. ¡Disfruta de tus almuerzos personalizados!
+
+Copyright (c) 2023 DigiAlmuerzos
+
+Este proyecto está bajo la licencia MIT License. Puedes encontrar los detalles de la licencia en el archivo LICENSE incluido en nuestro repositorio de GitHub (https://github.com/JuandaGrande/DigiAlmuerzos).
+
+Creadores del Proyecto:
+
+Juan Garavito - 11A
+Sergio Pérez - 11A
+Patrick Domicó - 11A
+Andrés Ballesteros - 11B
+Yeider Jácome - 11B
+
+Este proyecto fue creado en el 2023, en la clase de Programación y Pensamiento Computacional del Colegio Cafam con la docente Claudia Rodríguez.
